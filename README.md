@@ -66,7 +66,7 @@ more complicated stories.  For example, we can define a new combination
 [hill Adventure]=[Jack went up a hill] [Jack went down a hill]
 and have our story be:
 
-[story]=[introduce Jack] [Jack meets Jill] ([hill Adventure] x 100)
+[story]=[introduce Jack] [Jack meets Jill] {[hill Adventure] x 100}
 
 Our story will now be:
 
