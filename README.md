@@ -6,7 +6,7 @@
 ###########
 
 
-We can geneate a story using 2 basic elements:
+We can generate a story using 2 basic elements:
 1) A world
 and
 2) A story generator
@@ -19,7 +19,7 @@ and other information necessary
 for the generation.
 The "world" has a tree-structure where
 different branches in the tree
-represent differerent possible paths
+represent different possible paths
 the story can take.  For example,
 the root node "Once upon a time there was a boy named Jack."
 might have 2 nodes
